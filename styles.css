@@ -4,7 +4,7 @@
 }
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(background-web.jfif);
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%), url(background-web.jfif);
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -24,7 +24,7 @@
     color: #ff7200;
     font-size: 50px;
     font-family: Arial;
-    padding-left: 20px ;
+    padding-left: -20px ;
     float: left;
     padding-top: 10px;
     position: relative;
@@ -150,7 +150,7 @@ ul li a:hover{
  .form{
     width: 250px;
     height: 380px;
-    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    background: linear-gradient(45deg, #4f1919, #ff3333);
     position: absolute;
     top: -20px;
     left: 870px;
